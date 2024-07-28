@@ -32,7 +32,7 @@ Node.js
 Angular CLI
 # Installation
 # Clone the Repository:
-git clone https://github.com/your-username/Health-Challenge-Tracker.git
+git clone https://github.com/manisha9555/Fyle_health_challange_tracker.git
 # cd Health-Challenge-Tracker
 # Install Dependencies:
 
