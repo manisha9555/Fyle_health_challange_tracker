@@ -17,12 +17,11 @@ LocalStorage: User data is stored locally using localStorage for persistence.
 # Responsive Design
 Responsive UI: The application is designed to be responsive and user-friendly, making it accessible on various devices.
 # Screenshots
-
-![Screenshot 2024-07-28 201959](https://github.com/user-attachments/assets/1c85014f-5b66-4290-b9ed-2a32009e17b6)
-![Screenshot 2024-07-28 202914](https://github.com/user-attachments/assets/83f7aa3a-b086-4aff-a631-ef97a11a4006)
-![Screenshot 2024-07-28 202829](https://github.com/user-attachments/assets/b10f7319-60f7-4fc8-afc7-961e1dbe018d)
-![Screenshot 2024-07-28 202739](https://github.com/user-attachments/assets/ba94e20b-6c22-4766-b82c-e20253c53506)
-![Screenshot 2024-07-28 202706](https://github.com/user-attachments/assets/99107a4e-6e3e-4e6c-97d8-dcb19f91e1d9)
+![Screenshot 2024-07-29 001933](https://github.com/user-attachments/assets/01d73e81-53c0-4e13-93ba-3cd59e2af72e)
+![Screenshot 2024-07-29 002022](https://github.com/user-attachments/assets/88e562dc-3493-4008-ba2f-046839dcdeb7)
+![Screenshot 2024-07-29 002144](https://github.com/user-attachments/assets/ad19721d-e6d2-462a-8e6d-e5e2583a2b02)
+![Screenshot 2024-07-29 002247](https://github.com/user-attachments/assets/469e8806-f178-400a-bfa7-88d24081ab28)
+![Screenshot 2024-07-29 002218](https://github.com/user-attachments/assets/51be40a0-9577-4837-b281-a57005d11a56)
 
 # Getting Started
 Follow these steps to run the application locally.
